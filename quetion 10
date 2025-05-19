@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akshara Suhane - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            width: 60%;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            padding: 5px 0;
+        }
+        .contact a {
+            text-decoration: none;
+            color: #0073e6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sakshi Pawar</h1>
+        <p>Indore, M.P. | (+91) 9993748161 | <a href="mailto:akshara.suhane1123@gmail.com">sakshipwr6@gmail.com</a></p>
+        <p class="contact"><a href="https://github.com/sakshipawar29" target="_blank">GitHub</a> | <a href="https://www.linkedin.com/in/sakshi-pawar-50b668260/" target="_blank">LinkedIn</a></p>
+        
+        <h2>Education</h2>
+        <p>Institute of Engineering and Technology, Indore, MP (2022-2026)</p>
+        <p>Branch: CSE | CGPA: 7.14</p>
+        <p>Standard Public School, Indore</p>
+        <p>Class X: 79.80% | Class XII: 75%</p>
+        
+        <h2>Skills</h2>
+        <ul>
+            <li>Programming Languages: C, C++, Java</li>
+            <li>Tools and Frameworks: Git, Android Studio</li>
+            <li>Database Management: MySQL, DBMS</li>
+            <li>Object-Oriented Programming: C++, OOP principles</li>
+            <li>Frontend Technolologies: HTML, CSS, Javascript, React</li>
+            <li>Backend Technologies: Node.js, Express.js </li>
+        </ul>
+        
+        <h2>Projects</h2>
+        <h3>Chatbot - (React.js, CSS, Google Gemini API)</h3>
+        <ul>
+            <li>Clean and Responsive AI</li>
+            <li>Integrated Google Gemini API</li>
+            <li>Handled API calls, state management and dynami message rendering</li>
+            <li>Designed with scalability and user experience in mind, suitable for various use cases</li>
+        </ul>
+        
+        <h3>Amazon Clone</h3>
+        <ul>
+            <li>Developed a responsive e-commerce webpage inspired by Amazon.</li>
+            <li>Utilized HTML, CSS Grid, and Flexbox for structured and flexible layouts. </li>
+            <li>Designed a multi-column product display for better user experience. </li>
+            <li>Ensured cross-browser compatibility for consistent performance</li>
+        </ul>
+        
+        
+        <h2>Soft skils</h2>
+        <ul>
+            <li>Communication and team work  </li>
+            <li>Problem-solving and critical thinking </li>
+            <li>Fluent in English; Conversational proficiency in Hindi </li>
+        </ul>
+    </div>
+</body>
+</html>
